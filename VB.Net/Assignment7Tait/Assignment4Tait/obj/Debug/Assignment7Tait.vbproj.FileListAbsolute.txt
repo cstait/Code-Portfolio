@@ -1,0 +1,11 @@
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment7Tait\Assignment4Tait\bin\Debug\Assignment4Tait.exe.config
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment7Tait\Assignment4Tait\obj\Debug\Assignment4Tait.exe
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment7Tait\Assignment4Tait\obj\Debug\Assignment4Tait.xml
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment7Tait\Assignment4Tait\obj\Debug\Assignment4Tait.pdb
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment7Tait\Assignment4Tait\bin\Debug\Assignment4Tait.exe
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment7Tait\Assignment4Tait\bin\Debug\Assignment4Tait.pdb
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment7Tait\Assignment4Tait\bin\Debug\Assignment4Tait.xml
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment7Tait\Assignment4Tait\obj\Debug\WindowsApplication1.frmMain.resources
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment7Tait\Assignment4Tait\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment7Tait\Assignment4Tait\obj\Debug\WindowsApplication1.frmSplash.resources
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment7Tait\Assignment4Tait\obj\Debug\Assignment7Tait.vbproj.GenerateResource.Cache

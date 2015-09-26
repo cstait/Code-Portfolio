@@ -1,0 +1,11 @@
+.root { -fx-background-image: url("background.jpg"); }
+.button {
+-fx-text-fill: black;
+-fx-font-family: "Times New Roman"; 
+-fx-font-weight: bold; 
+-fx-background-color: linear-gradient(#ff0000, #ff0000); 
+-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0), 0,0.0,0,1);}
+.label {
+    -fx-text-fill: red;
+    -fx-font-weight: bold;
+}

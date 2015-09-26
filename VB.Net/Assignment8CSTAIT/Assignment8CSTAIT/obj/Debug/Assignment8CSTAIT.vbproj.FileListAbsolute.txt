@@ -1,0 +1,13 @@
+C:\Users\Xaxas\AppData\Local\Temporary Projects\Assignment8CSTAIT\bin\Debug\Assignment8CSTAIT.exe.config
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment8CSTAIT\Assignment8CSTAIT\bin\Debug\Assignment8CSTAIT.exe.config
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment8CSTAIT\Assignment8CSTAIT\bin\Debug\Assignment8CSTAIT.exe
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment8CSTAIT\Assignment8CSTAIT\bin\Debug\Assignment8CSTAIT.pdb
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment8CSTAIT\Assignment8CSTAIT\bin\Debug\Assignment8CSTAIT.xml
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment8CSTAIT\Assignment8CSTAIT\obj\Debug\Assignment8CSTAIT.frmMain.resources
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment8CSTAIT\Assignment8CSTAIT\obj\Debug\Assignment8CSTAIT.Resources.resources
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment8CSTAIT\Assignment8CSTAIT\obj\Debug\Assignment8CSTAIT.vbproj.GenerateResource.Cache
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment8CSTAIT\Assignment8CSTAIT\obj\Debug\Assignment8CSTAIT.exe
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment8CSTAIT\Assignment8CSTAIT\obj\Debug\Assignment8CSTAIT.xml
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment8CSTAIT\Assignment8CSTAIT\obj\Debug\Assignment8CSTAIT.pdb
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment8CSTAIT\Assignment8CSTAIT\obj\Debug\Interop.ADOX.dll
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment8CSTAIT\Assignment8CSTAIT\obj\Debug\Assignment8CSTAIT.vbproj.ResolveComReference.cache

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import java.net.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.collections.*?>
+
+
+<GridPane xmlns:fx="http://javafx.com/fxml/1" id="GridPane" fx:controller="FXMLDocumentController" 
+     prefHeight="250" prefWidth="500" alignment="TOP_CENTER" hgap="5.5" vgap="5.5">
+<padding><Insets top="11.5" right="12.5" bottom="13.5" left="14.5"/></padding>
+    <stylesheets>
+        <URL value="@CSTaitHW.css"/>
+    </stylesheets>
+<children>
+    <Button GridPane.columnIndex="0" GridPane.rowIndex="0" text="Order Pizza"  fx:id="orderPizza" />
+    <Button id="viewPizza" GridPane.columnIndex="1" GridPane.rowIndex="0" text="View Pizza"  onAction="#switchToView" fx:id="viewPizza" />
+    <Button GridPane.columnIndex="0" GridPane.rowIndex="4" text="Add Pizza" onAction="#addPizza" fx:id="addOrder" />
+    <TextField GridPane.columnIndex="1" GridPane.rowIndex="1" prefColumnCount="12" fx:id="lastName"/>
+
+    <ComboBox GridPane.columnIndex="0" GridPane.rowIndex="2"  onAction="#calculate" fx:id="pizzaType" promptText="Pepperoni">
+     <items>
+        <FXCollections fx:factory="observableArrayList">
+          <String fx:value="Pepperoni" />
+          <String fx:value="Hawaiian" />
+          <String fx:value="Veggie" />
+          <String fx:value="Meat" />
+          <String fx:value="Special" />
+        </FXCollections>
+     </items>
+        <value>
+        <String fx:value="Pepperoni" />
+    </value>
+    </ComboBox>
+    <ComboBox GridPane.columnIndex="1" GridPane.rowIndex="2"  onAction="#calculate" fx:id="pizzaSize" promptText="Small" >
+         <items>
+        <FXCollections fx:factory="observableArrayList">
+          <String fx:value="Small" />
+          <String fx:value="Medium" />
+          <String fx:value="Large" />
+        </FXCollections>
+     </items>
+        <value>
+        <String fx:value="Small" />
+    </value>
+    </ComboBox>
+    <ComboBox GridPane.columnIndex="2" GridPane.rowIndex="2"  onAction="#calculate" fx:id="pizzaTop" promptText="No Toppings" >
+         <items>
+        <FXCollections fx:factory="observableArrayList">
+          <String fx:value="No Toppings" />
+          <String fx:value="Extra Cheese" />
+          <String fx:value="Green Pepper" />
+          <String fx:value="Onion" />
+          <String fx:value="Mushroom" />
+          <String fx:value="Black Olive" />
+          <String fx:value="Tomato" />
+          <String fx:value="Jalapeno Pepper" />
+        </FXCollections>
+     </items>
+        <value>
+        <String fx:value="No Toppings" />
+    </value>
+    </ComboBox>
+    <Label GridPane.columnIndex="3" GridPane.rowIndex="2" text="5.00" fx:id="total" />
+    <Label GridPane.columnIndex="0" GridPane.rowIndex="1" text="Last Name:"/>
+    
+</children>
+</GridPane>

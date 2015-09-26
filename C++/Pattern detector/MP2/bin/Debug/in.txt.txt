@@ -1,0 +1,43 @@
+F Tom Obrian    Joe Harrison   NT445-1  8:00  10:05   30 Saginaw  Chicago
+F Andy Smith    John Lowell    TD325-1  7:50   8:30   35 Saginaw  Detroit
+P TD325-1 684516865  Paul Gumby   M1  2A
+F David Jones   George Keaton  DS125-1 10:50  13:30   25 Saginaw  Lansing
+P TD325-1 321456780  Martha Woods F2 12B
+P DS125-1 468012347  Jeff Olson   M1  1A
+P NT445-1 301492150  Judy Cohen   F2 10C
+P TD325-1 124530145  Tim Watson   M1  3B
+D CA200-1 312556289  Jim Schmitt  M2  9D
+W TD325-1
+F Gordon Lee    Tim Cohen      CA200-1 10:45  12:30   25 Saginaw  Kalamazoo
+L NT445-1 301492150  Judy Cohen
+D TD325-1 475432156  Lisa Cheeze  F2 15D
+P CA200-1 312556289  Jim Schmitt  M2  9D
+P NT445-1 812340984  Paul Hunt    M1  1A
+P CA200-1 325097651  Linda Hunt   F1  1B
+F Richard Bank  Scott Morris   DC205-1 13:50  14:30   20 Saginaw  Detroit
+F Don  Novell   Jerry Hope     AB305-1 16:55  18:30   30 Saginaw  Ann Arbor
+P DC205-1 375783122  Chuck Cheeze M2 15C
+P DC205-1 475432156  Lisa Cheeze  F2 15D
+D TD325-1 321456780  Martha Woods F2 12B
+P DS125-1 625478310  Mike Handy   M2  8A
+L TD325-1 321456780  Martha Woods
+P DS125-1 375783122  Karen Handy  F2  8B
+W DS125-1
+P DC205-1 213409821  Joe Allen    M1  1A
+P NT445-1 313446782  Chris Howard M1  1B
+P DS125-1 625478310  Mike Handy   M2  8A
+D NT445-1 313446782  Chris Howard M1  1B
+W AB305-1
+P NT445-1 433120850  Mary Wolf    F1  1B
+P NT445-1 312455673  John Howard  M1  6B
+D DS125-1 375783122  Karen Handy  F2  8B
+W NT445-1
+P AB305-1 533420900  Mary Carter  F1  1C
+P DS125-1 433120850  Frank Alla   M2 12D
+D AB305-1 312709991  Jason Lee    M1  1A
+P TD325-1 804134570  Peter Lin    M1  1B
+L NT445-1 433120850  Mary Wolf
+P AB305-1 440234185  Amy Brown    F2  9D
+P CA200-1 312709991  Jason Lee    M1  1A
+P AB305-1 310785432  Eric Leeson  M1  6B
+A

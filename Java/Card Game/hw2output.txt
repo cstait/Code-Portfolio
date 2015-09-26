@@ -1,0 +1,110 @@
+6H 9H 2S 9S 7S - A pair of 9s
+AS 9D 6S QC QD - A pair of Qs
+2C JD 9H 2S 8D - A pair of 2s
+QS 9C 6S AH QD - A pair of Qs
+4H 8S AH QS KH - the high card is A
+2S AC 4H 8H KC - the high card is A
+7H 7D 2D KD 5S - A pair of 7s
+KS 10C KD 3S 10S  - Two pair found of 10s and Ks
+8D 3D 7H 9S KD - the high card is K
+9C 7C JH JC AH - A pair of Js
+10C 7S JS AS 5C - the high card is A
+4H 9H 3S 9D 8D - A pair of 9s
+9H AH 5C 8S 6H - the high card is A
+2D 7C 7D 7S 2C - A Full house!
+2C 9C KH 4C 7H - the high card is K
+QH 2C 4D 9D 6H - the high card is Q
+9H AH JD 7S 6S - the high card is A
+7D 10D QC 9S 6D - the high card is Q
+6C 10S KC KD 3S - A pair of Ks
+JC 3D AH 5H 9H - the high card is A
+2H 2S 9C QC 4C - A pair of 2s
+2H 3D 9C 4S QD - the high card is Q
+JC 5C 8S 9C 10D - the high card is J
+6D 8D 3S AS 2C - the high card is A
+AD 3S 7C QS 6H - the high card is A
+3H 3D QH KD JS - A pair of 3s
+10D 9D QD 6S 9S - A pair of 9s
+3D 3C 4D 7H 7S  - Two pair found of 3s and 7s
+QC 6H 3C 2D 10S - the high card is Q
+KC 10S 3D 8H 2H - the high card is K
+QC KH 8S QH KC  - Two pair found of Qs and Ks
+JS 5S 3C 8S 7C - the high card is J
+9D 4S AC JS AH - A pair of As
+AC 6C 2C 7S QC - the high card is A
+8D 10H AD QH 4S - the high card is A
+7S 2S KS 8D 3C - the high card is K
+6S 8S 4S 5D 2C - the high card is 8
+2H KS 2S 10D 3D - A pair of 2s
+10D AC 6S 10H 10S - A triple 10
+8C 10H 7D 5C QS - the high card is Q
+9H 4H 7S 3H 2C - the high card is 9
+QD 3H 9D 10H 8H - the high card is Q
+KH 7S 10C JH QS - the high card is K
+7D 3D KC 9C 3C - A pair of 3s
+10H 4D 4H 7H 7C  - Two pair found of 4s and 7s
+3C 9D 4D 2C 8S - the high card is 9
+QS 7D 8S KS 2C - the high card is K
+4H QS 6H AH KD - the high card is A
+AS QS 7D 9C 2S - the high card is A
+5C QS 3D 4S 7D - the high card is Q
+10C 7H 8H QH 3C - the high card is Q
+9S QH 3S QC 3H  - Two pair found of 3s and Qs
+QC 7H 6C 8H 2H - the high card is Q
+KD 9S 4S 8C 8D - A pair of 8s
+JC KH 10H 10C AD - A pair of 10s
+9H 9D 4D 2H 8D - A pair of 9s
+6H 5H JS 5S 5C - A triple 5
+2D 5D 3H QH AH - the high card is A
+8C 6C JS 5C 6S - A pair of 6s
+4S 9C 8C 8D 4D  - Two pair found of 4s and 8s
+2C 3D 3S AS KH - A pair of 3s
+4S QD JS 7S 4D - A pair of 4s
+9C QH AH 3D 10C - the high card is A
+4H 7S 6C 6H AD - A pair of 6s
+AH 7S 7D 6D KS - A pair of 7s
+2D 9D 7S AS QS - the high card is A
+4H 5H JS 10S QS - the high card is Q
+KC 9H JC 5H 10D - the high card is K
+8C 4C QS KS AD - the high card is A
+AS 3C 5D QS 6H - the high card is A
+AD JC 7C AC 6C - A pair of As
+AC 7C 5S 8C 10D - the high card is A
+KC 10S JC 5C 6H - the high card is K
+AC AH KC KD 8D  - Two pair found of As and Ks
+2S 6C 9C 10S 2H - A pair of 2s
+6C 9D JD 5C 7H - the high card is J
+8D AD 9S 7S 2S - the high card is A
+8S 10C 5H 10S 6H - A pair of 10s
+5D QC JC QH 7C - A pair of Qs
+KS 2S 7C 10S 4H - the high card is K
+5C KS 10S 5S KH  - Two pair found of 5s and Ks
+8D AS JC 4S 10H - the high card is A
+7C KS 9D 2S 9H - A pair of 9s
+2C 9D 3H 4S KD - the high card is K
+KH 6D 5H 8D 6C - A pair of 6s
+7S 8D JD 2C AC - the high card is A
+JH 3H 6S 5C 2D - the high card is J
+QC 7H 5S 2C KC - the high card is K
+3S 6C KH 10C 7D - the high card is K
+3C 9C QS KS KH - A pair of Ks
+4S 8C 5H KH 7H - the high card is K
+3C AH 7C 10S 5S - the high card is A
+8C 2C QC 10H 5D - the high card is Q
+5D 2S 6S 6C JD - A pair of 6s
+KC 10H JS 4C 10S - A pair of 10s
+JS 7H QS 6C 9D - the high card is Q
+QS KD 3S 3H 2D - A pair of 3s
+3H JC AC 5S 7D - the high card is A
+8H 10H KH 9S AD - the high card is A
+JD 6H 7S QH 2H - the high card is Q
+
+
+High Card: 57
+Pair: 32
+Two Pair: 8
+Triple: 2
+Straight: 0
+Flush: 0
+Full House: 1
+Four Cards: 0

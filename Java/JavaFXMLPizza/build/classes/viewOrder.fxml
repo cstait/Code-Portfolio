@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import java.net.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.cell.*?> 
+<?import javafx.collections.*?> 
+
+
+
+
+<GridPane id="GridPane" fx:controller="viewControl" 
+    xmlns:fx="http://javafx.com/fxml/1"  prefHeight="250" prefWidth="500" alignment="TOP_CENTER" hgap="5.5" vgap="5.5">
+<padding><Insets top="11.5" right="12.5" bottom="13.5" left="14.5"/></padding>
+    <stylesheets>
+        <URL value="@CSTaitHW.css"/>
+    </stylesheets>
+<children>
+       <Button id="orderPizza2" GridPane.columnIndex="0" GridPane.rowIndex="0" text="Order Pizza" onAction="#switchToView" fx:id="orderPizza2" />
+    <Button GridPane.columnIndex="1" GridPane.rowIndex="0" text="View Pizza"   fx:id="viewPizza2" />
+     <TableView fx:id="tableView" GridPane.columnIndex="0" 
+        GridPane.rowIndex="1">
+             
+     <columns>       
+      <TableColumn text="Name">
+<cellValueFactory><PropertyValueFactory property="lastName" />
+        </cellValueFactory>
+      </TableColumn>
+      <TableColumn text="Type">
+<cellValueFactory><PropertyValueFactory property="type" />
+        </cellValueFactory>
+      </TableColumn>
+      <TableColumn text="Size">
+<cellValueFactory><PropertyValueFactory property="size" />
+        </cellValueFactory>
+      </TableColumn>
+      <TableColumn text="Topping">
+<cellValueFactory><PropertyValueFactory property="topping" />
+        </cellValueFactory>
+      </TableColumn>
+      <TableColumn text="Total">
+<cellValueFactory><PropertyValueFactory property="total" />
+        </cellValueFactory>
+      </TableColumn>      
+     </columns>  
+ 
+    </TableView>
+
+      
+</children>
+</GridPane>

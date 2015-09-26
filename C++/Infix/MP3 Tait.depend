@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1414343732 source:c:\users\xaxas\desktop\mp3\mp3 tait\main.cpp
+	<iostream>
+	<fstream>
+	"postConvertor.h"
+
+1414343605 c:\users\xaxas\desktop\mp3\mp3 tait\include\postconvertor.h
+	<fstream>
+	<stack>
+	<sstream>
+	<string>
+
+1414343645 source:c:\users\xaxas\desktop\mp3\mp3 tait\src\postconvertor.cpp
+	"postConvertor.h"
+

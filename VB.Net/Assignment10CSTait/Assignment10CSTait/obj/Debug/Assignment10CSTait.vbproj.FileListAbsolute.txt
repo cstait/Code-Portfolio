@@ -1,0 +1,12 @@
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment10CSTait\Assignment10CSTait\bin\Debug\Assignment10CSTait.exe.config
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment10CSTait\Assignment10CSTait\bin\Debug\Assignment10CSTait.exe
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment10CSTait\Assignment10CSTait\bin\Debug\Assignment10CSTait.pdb
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment10CSTait\Assignment10CSTait\bin\Debug\Assignment10CSTait.xml
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment10CSTait\Assignment10CSTait\bin\Debug\WindowsControlLibrary1.pdb
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment10CSTait\Assignment10CSTait\bin\Debug\WindowsControlLibrary1.xml
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment10CSTait\Assignment10CSTait\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment10CSTait\Assignment10CSTait\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment10CSTait\Assignment10CSTait\obj\Debug\Assignment10CSTait.vbproj.GenerateResource.Cache
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment10CSTait\Assignment10CSTait\obj\Debug\Assignment10CSTait.exe
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment10CSTait\Assignment10CSTait\obj\Debug\Assignment10CSTait.xml
+C:\Users\Xaxas\Documents\Visual Studio 2012\Projects\Assignment10CSTait\Assignment10CSTait\obj\Debug\Assignment10CSTait.pdb

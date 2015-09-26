@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1411941381 source:c:\users\xaxas\desktop\mp2\mp2\main.cpp
+	"mp2.h"
+
+1411946028 c:\users\xaxas\desktop\mp2\mp2\mp2.h
+	<iostream>
+	<iomanip>
+	<cstring>
+	<fstream>
+
+1411953231 source:c:\users\xaxas\desktop\mp2 - copy\mp2\main.cpp
+	"mp2.h"
+
+1411955875 c:\users\xaxas\desktop\mp2 - copy\mp2\mp2.h
+	<iostream>
+	<iomanip>
+	<cstring>
+	<fstream>
+
